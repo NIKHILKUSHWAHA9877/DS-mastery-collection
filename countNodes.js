@@ -51,7 +51,7 @@ console.log(preOrder)
 console.log(inOrder )
 console.log(postOrder)
 
-
+ 
 // now writing function to count numbers of nodes
 function countNodes(node){
     if(node == null ){

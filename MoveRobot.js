@@ -13,7 +13,7 @@ moveRobot (n,m,i,j+1,psf + "h");
 moveRobot (3,3,1,1,"")
 
 
-//Move robot but this time givr count of total number of moves only 
+//Move robot but this time give count of total number of moves only 
 let count = 0
 function moveRobot (n,m,i,j){
     if(i == n && j == m){
