@@ -22,3 +22,6 @@ var nextGreatherElement = function (array, n) {
 
 let result = nextGreatherElement([1, 3, 2, 4], 4)
 console.log(result);
+
+
+//class 19 1hour 45 min
