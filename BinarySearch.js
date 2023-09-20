@@ -17,12 +17,8 @@ if(nums[mid]=== target){
 }else{
     right = mid - 1 
 }
-
-
 }
-
 return - 1
 }
-
 let result = Search([-1,4,6,7,8,9],9)
 console.log(result)
